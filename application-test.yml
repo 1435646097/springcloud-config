@@ -1,5 +1,5 @@
 server:
-  version: test
+  version: test222
 
 eureka:
   instance:
