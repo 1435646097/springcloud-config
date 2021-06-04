@@ -1,5 +1,5 @@
 server:
-  version: thiisversion1
+  version: thiisversion222
 
 eureka:
   instance:
